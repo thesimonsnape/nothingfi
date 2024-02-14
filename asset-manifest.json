@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nothingfi/static/css/main.5fd1e0a8.css",
-    "main.js": "/nothingfi/static/js/main.b9dd349c.js",
+    "main.css": "/nothingfi/static/css/main.7e0c3eb4.css",
+    "main.js": "/nothingfi/static/js/main.faa9b252.js",
     "static/js/592.6a528e46.chunk.js": "/nothingfi/static/js/592.6a528e46.chunk.js",
     "static/media/nthfinance_logo.png": "/nothingfi/static/media/nthfinance_logo.838c63b8910c0035801f.png",
     "index.html": "/nothingfi/index.html",
-    "main.5fd1e0a8.css.map": "/nothingfi/static/css/main.5fd1e0a8.css.map",
-    "main.b9dd349c.js.map": "/nothingfi/static/js/main.b9dd349c.js.map",
+    "main.7e0c3eb4.css.map": "/nothingfi/static/css/main.7e0c3eb4.css.map",
+    "main.faa9b252.js.map": "/nothingfi/static/js/main.faa9b252.js.map",
     "592.6a528e46.chunk.js.map": "/nothingfi/static/js/592.6a528e46.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fd1e0a8.css",
-    "static/js/main.b9dd349c.js"
+    "static/css/main.7e0c3eb4.css",
+    "static/js/main.faa9b252.js"
   ]
 }
